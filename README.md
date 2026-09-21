@@ -5,6 +5,7 @@
 
 This repository contains operational documentation and configuration files for running a single-tier Public Key Infrastructure (PKI) using OpenSSL. It enforces a strict operational boundary between the **CA System** (Offline / Secure Node) and the **Server System** (Web / Host Node).
 
+
 ---
 
 ## 🏗 Architecture & File Layout
